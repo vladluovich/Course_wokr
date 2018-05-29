@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8018CD74-222E-8F6B-6D69-A3DBB3CCD67A}") = "Jump way(исправлен)", "Assembly-CSharp.csproj", "{1D461B1A-88EF-6B7E-9AAC-46FB93D4C927}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D461B1A-88EF-6B7E-9AAC-46FB93D4C927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D461B1A-88EF-6B7E-9AAC-46FB93D4C927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D461B1A-88EF-6B7E-9AAC-46FB93D4C927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D461B1A-88EF-6B7E-9AAC-46FB93D4C927}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
